@@ -11,7 +11,9 @@ body {
     font-family: 'Figtree';
     background-color: #F4D04E;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     margin: 0px;
     min-height: 100vh;
 }
@@ -111,3 +113,6 @@ h2 {
     margin: 0px;
 }
 
+footer {
+    padding: 30px;
+}
