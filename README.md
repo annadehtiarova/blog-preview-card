@@ -11,7 +11,7 @@ This is [my solution](https://annadehtiarova.github.io/blog-preview-card/) to th
 ## Overview
 
 ### Screenshot
-My challenge was to build out the QR code component and get it looking as close to the design as possible.
+My challenge was to build out the Blog preview card component and get it looking as close to the design as possible.
 <br>
 <br>
 <img width="1703" alt="Screenshot 2024-10-07 at 11 10 42" src="https://github.com/user-attachments/assets/316b63c6-b573-4934-9ff2-929b056795ad">
