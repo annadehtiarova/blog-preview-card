@@ -20,10 +20,11 @@ My challenge was to build out the Blog preview card component and get it looking
 I was provided with a Figma file.
 <br>
 <br>
-<img width="1684" alt="Screenshot 2024-10-07 at 11 11 09" src="https://github.com/user-attachments/assets/cc6d0e2a-932f-4589-a590-d60d419299c8">
+<img width="1125" alt="Screenshot 2024-10-07 at 20 17 23" src="https://github.com/user-attachments/assets/9597a8d8-eb68-46c1-971e-86f3a2994d3e">
 <br>
 <br>
-<img width="1678" alt="Screenshot 2024-10-07 at 11 11 54" src="https://github.com/user-attachments/assets/c4799d82-b516-4836-9cf0-6c3ea1942f64">
+<img width="1106" alt="Screenshot 2024-10-07 at 20 17 57" src="https://github.com/user-attachments/assets/7d61f4ee-3522-466a-a3e7-60152dd60dee">
+
 
 ### Built with
 
